@@ -1,7 +1,7 @@
 <p align="center">
-  <img width="160" height="160" src="/icons/consciousness.gif">
+  <img width="200" height="200" src="/icons/consciousness.gif">
 </p>
-<h3>Hello! I'm Abhilash Dikshit</h3>
+<h2>Hello! I'm Abhilash Dikshit</h2>
 <p>Welcome to my GitHub portfolio page, where you can find some of my recent projects and code samples. </p>
 
 <p>If you're interested in collaborating or learning more about my work, feel free to reach out to me:</p>
@@ -27,6 +27,6 @@
     <img width="50" height="50" src="/icons/bash.png">
 </p>
 
-<p>
+<h3>
 Thank you for visiting my portfolio page!
-</p>
+</h3>
