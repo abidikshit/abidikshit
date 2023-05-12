@@ -13,7 +13,7 @@
 <p align="left"> 
     <img width="50" height="50" src="/icons/Python-logo.png">
     <img width="50" height="50" src="/icons/R_logo.png">
-    <img width="60" height="50" src="/icons/html_css_js.png">
+    <img width="80" height="50" src="/icons/html_css_js.png">
     <img width="60" height="50" src="/icons/aws.png">
     <img width="60" height="50" src="/icons/Mongo.png">
     <img width="50" height="50" src="/icons/mysql.jpg">
