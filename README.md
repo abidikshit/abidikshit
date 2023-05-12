@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="/icons/consciousness.gif">
+  <img width="500" height="500" src="/icons/consciousness.gif">
 </p>
 <h2>Hello! I'm Abhilash Dikshit</h2>
 <p>Welcome to my GitHub portfolio page, where you can find some of my recent projects and code samples. </p>
