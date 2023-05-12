@@ -6,7 +6,7 @@
 
 <p>If you're interested in collaborating or learning more about my work, feel free to reach out to me:</p>
 <p align="left">
-    <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/hd-linkedin-official-logo.png" alt="abhilash-dikshit" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/hd-linkedin-official-logo.png" alt="abhilash-dikshit" height="40" width="60" /></a>
 </p>
 
 <p>Skills:</p>
