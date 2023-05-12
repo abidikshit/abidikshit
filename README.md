@@ -6,10 +6,10 @@
 
 <p>If you're interested in collaborating or learning more about my work, feel free to reach out to me:</p>
 <p align="left">
-    <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/hd-linkedin-official-logo.png" alt="abhilash-dikshit" height="40" width="60" /></a>
+    <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/hd-linkedin-official-logo.png" alt="abhilash-dikshit" height="30" width="50" /></a>
 </p>
 
-<p>Skills:</p>
+<h3>Skills:</h3>
 <p align="left"> 
     <img width="50" height="50" src="/icons/Python-logo.png">
     <img width="50" height="50" src="/icons/R_logo.png">
