@@ -17,11 +17,11 @@
     <img width="60" height="50" src="/icons/Mongo.png">
     <img width="50" height="50" src="/icons/mysql.jpg">
     <img width="50" height="50" src="/icons/microsoft-sql-server.svg">
-    <img width="100" height="50" src="/icons/Tableau.png">
+    <img width="100" height="60" src="/icons/Tableau.png">
     <img width="100" height="50" src="/icons/grafana_prometheus_kube.png">
     <img width="50" height="50" src="/icons/jenkins.png">
     <img width="50" height="50" src="/icons/docker.png">
-    <img width="70" height="50" src="icons/Apache_Maven_logo.png">
+    <img width="60" height="40" src="icons/Apache_Maven_logo.png">
     <img width="100" height="50" src="/icons/datadog.png">
     <img width="50" height="50" src="/icons/linux.png">
     <img width="50" height="50" src="/icons/bash.png">
