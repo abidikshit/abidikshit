@@ -12,8 +12,8 @@
 <h3>Skills:</h3>
 <p align="left"> 
     <img width="60" height="50" src="/icons/aws.png">
-    <img width="50" height="50" src="/icons/py.png">
-    <img width="50" height="50" src="/icons/r.png">
+    <img width="70" height="50" src="/icons/py.png">
+    <img width="70" height="50" src="/icons/rcode.png">
     <img width="150" height="50" src="/icons/html_css_js_bootstrap.png">
     <img width="130" height="50" src="/icons/vscode.jpg">
     <img width="150" height="50" src="/icons/db.jpg">
