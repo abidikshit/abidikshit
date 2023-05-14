@@ -28,6 +28,9 @@
     <img width="70" height="50" src="/icons/datadog.jpg">
 </p>
 
+<h3>Certifications:</h3>
+<p align="left"> 
+    <img width="80" height="50" src="/icons/awssaa.png">
 <h3>
 Thank you for visiting!
 </h3>
