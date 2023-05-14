@@ -17,7 +17,7 @@
     <img width="150" height="50" src="/icons/html_css_js_bootstrap.png">
     <img width="130" height="50" src="/icons/vscode.jpg">
     <img width="150" height="50" src="/icons/db.jpg">
-    <img width="100" height="50" src="/icons/PowerBI_Tableau.jpg">
+    <img width="100" height="50" src="/icons/tab_powerbi.png">
     <img width="130" height="50" src="/icons/grafana_prometheus_kube.png">
     <img width="50" height="50" src="/icons/jenkins.jpg">
     <img width="70" height="50" src="/icons/docker.png">
