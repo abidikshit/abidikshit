@@ -30,7 +30,7 @@
 
 <h3>Certifications:</h3>
 <p align="left"> 
-    <img width="80" height="50" src="/icons/awssaa.png">
+    <img width="60" height="60" src="/icons/awssaa.png">
 <h3>
 Thank you for visiting!
 </h3>
