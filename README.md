@@ -19,8 +19,7 @@
     <img width="80" height="50" src="/icons/Mongo.png">
     <img width="60" height="50" src="/icons/mysql.jpg">
     <img width="50" height="50" src="/icons/mssql.png">
-    <img width="150" height="50" src="/icons/Tableau.png">
-    <img width="150" height="50" src="/icons/powerbi.jpg">
+    <img width="150" height="50" src="/icons/PowerBI_Tableau.jpg.jpg">
     <img width="130" height="50" src="/icons/grafana_prometheus_kube.png">
     <img width="50" height="50" src="/icons/jenkins.jpg">
     <img width="70" height="50" src="/icons/docker.png">
