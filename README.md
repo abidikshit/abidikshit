@@ -13,6 +13,7 @@
 <p align="left"> 
     <img width="80" height="50" src="/icons/git.jpg">
     <img width="60" height="50" src="/icons/aws.png">
+    <img width="60" height="50" src="/icons/pcf.png">
     <img width="70" height="50" src="/icons/py.png">
     <img width="70" height="50" src="/icons/rcode.png">
     <img width="80" height="50" src="/icons/vscode-pycharm.png">
