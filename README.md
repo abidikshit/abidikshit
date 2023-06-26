@@ -1,13 +1,16 @@
 <p align="center">
   <img width="300" height="300" src="/icons/consciousness.gif">
 </p>
-<h2>Hello! I'm Abhilash Dikshit</h2>
-<p>Welcome to my GitHub portfolio page, where you can find some of my recent projects and code samples. </p>
+<h2>Hello! I'm Abi! 👽</h2>
 
-<p>If you're interested in collaborating or learning more about my work, feel free to reach out to me:</p>
-<p align="left">
-    <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/linkedin.png" alt="abhilash-dikshit" height="20" width="60" /></a>
-    <a href="https://www.kaggle.com/abhilashdikshit" target="blank"><img align="center" src="/icons/Kaggle.png" alt="abhilash-dikshit" height="20" width="60" /></a> 
+<p>
+I'm not just an average Software engnieer. I'm an otherworldly being on a mission to help HUMANS. Equipped with advanced extraterrestrial technology, I'm here to explore different dimensions of AI.
+
+With a touch of intergalactic flair, I bring a unique cosmic perspective to the table. I thrive on interstellar knowledge and possess unparalleled expertise in DevOps and Data Analyst field. From unraveling the mysteries of Cloud to navigating the uncharted realms of Super Intelligence👾, I'm all set to venture where no one has gone before.
+
+But hey, it's not all cosmic exploration 🛸 and scientific discoveries📡! When I'm not exploring the cosmos🌌, you can find me engaging in intergalactic arts, tattos and indulging in alien cuisine. I believe in the power of unity across galaxies and embrace diversity in all forms.
+
+So, let's join forces and embark on an extraordinary journey together. Together, we can transcend boundaries and create a universe of possibilities. Get ready to experience the extraordinary with Abi! 🚀
 </p>
 
 <h3>Skills:</h3>
@@ -32,6 +35,10 @@
 <h3>Certifications:</h3>
 <p align="left"> 
     <img width="60" height="60" src="/icons/awssaa.png">
-<h3>
-Thank you for visiting!
-</h3>
+
+<h3>Contact Me:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/linkedin.png" alt="abhilash-dikshit" height="20" width="60" /></a>
+    <a href="https://www.kaggle.com/abhilashdikshit" target="blank"><img align="center" src="/icons/Kaggle.png" alt="abhilash-dikshit" height="20" width="60" /></a> 
+</p>
+
