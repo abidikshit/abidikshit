@@ -41,7 +41,11 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Certifications:</h3>
 <p align="left"> 
-    <img width="60" height="60" src="/icons/awssaa.png">
+    <a href="https://www.credly.com/badges/25205027-2c2d-4ae2-b470-71ada786a1cb" target="blank">Introduction To Analytics</a>
+    <a href="https://www.credly.com/badges/2b93078b-bc11-4ea8-83d7-a3a6ccf9a863" target="blank">Data Visualization and Storytelling Basics</a>
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:6956677247185358848/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6956677247185358848%29" target="blank">ASCEND (Applied Skills Curriculum to Empower Newcomer Development)</a>        
+    <img width="60" height="60" src="/icons/awssaa.png"> 
+</p>
 
 <h3>Contact Me:</h3>
 <p align="left">
