@@ -51,6 +51,8 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 </p>
 <p align="left">
     <a href="https://www.linkedin.com/feed/update/urn:li:activity:6598586311408476160/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6598586311408476160%29" target="blank">AWS CERTIFIED Solution Architect- Associate</a>
+</p>
+<p align="left">
     <img width="60" height="60" src="/icons/awssaa.png">
 </p>
 
