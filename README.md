@@ -15,11 +15,11 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Skills:</h3>
 
-- Programming and/or Scripting Language: Python, R, Java, Shell
+- Programming and/or Scripting Language: Python, R, Scala, Shell
 - Database: MySQL, MS SQL server, MongoDB, PostgreSQL
 - Web Technologies: HTML, CSS, JavaScript
 - Data Formats: JSON, XML
-- Machine Learning and Big Data: TensorFlow, scikit-learn, PyTorch, Spark, Cloudera
+- Machine Learning and Big Data: TensorFlow, scikit-learn, PyTorch, Hadoop, Hive, Spark, Cloudera
 - Data Visualization: Tableau, Power BI, Matplotlib, and QlikView
 - Statistical Analysis: Hypothesis testing, Regression analysis, and clustering.
 - API Integration: REST APIs
