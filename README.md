@@ -33,27 +33,11 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 </p>
 
 <h3>Projects:</h3>
-<p>
-Resume Building Analytics- Sponsored Project by CoverQuick 		                   
-Submitted To: Dr. Chinthaka Pathum Dinesh
-•	Python modules used: pandas, numpy, json, tabulate, IPython.display, matplotlib.pyplot, pycountry, wordcloud.
-•	Established criteria for optimizing resumes using AI, encompassing vital elements such as section relevance, resume length, action verb usage, pronoun avoidance, bullet point moderation, spelling accuracy, sentence length control, and the development of a scorecard calculator for resume assessment.
 
-Online Payment Fraud Detection- Northeastern University            		   
-Submitted To: Dr. Chinthaka Pathum Dinesh
-•	Python modules used: pandas, numpy, tabulate, IPython.display, matplotlib.pyplot, random, seaborn, sklearn.tree, graphviz
-•	Performed Exploratory Data Analysis (EDA), Principal Component Analysis (PCA), Decision Tree, Receiver Operating Characteristic (ROC), Random Forest, Logistic Regression, Support Vector Machine (SVM).
-
-Airbnb New York Analysis (2011-2019)- Northeastern University 	              
-Submitted To: Prof. Fatemah Ahmadi Abkenari
-•	Used Tableau, ShinyR and R libraries like plyr, dplyr, tidyr, dplyr, ggplot2, ggpubr, tidyverse, psych, moments, scales, shiny, plotly.
-•	Conducted Hypothesis testing, correlation matrix using Spearman correlation, Linear regression, Multiple line regression model, observed vs predicted prices for training dataset. (Link Here)
-
-Churn Modelling- Northeastern University 				              
-Submitted To: Prof. Fatemah Ahmadi Abkenari
-•	R library used: plyr, corrplot, plotly, ggplot2, psych, tidyr, tidyverse, gridExtra, caret, MASS, randomForest, party, readr, class, randomForest, rpart, rpart.plot, Metrics, easypackages, leaps, e1071, factoextra, glmnet, dplyr, BSDA
-•	Model implementation and Accuracies using Hypothesis testing of one t-test, two t-test, paired t-test, f-test, z-test; ANOVA, Logistic Regression, Lasso Model, RMSE, KNN model, Naïve Bayes, Decision Tree, Random Forest.
-</p>
+- [Resume Building Analytics- Sponsored Project by CoverQuick](Python/ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
+- [Online Payment Fraud Detection](Python/ALY6040-Data_Mining/FinalProject/ALY6040_OnlineFraudDetection_FinalProject.pdf)
+- [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
+- [Churn modelling in Banking Industry](ALY6015-IntermediateAnalytics/FinalProject/ALY6015_Group1_Final_project.pdf)
 
 <h3>Certifications:</h3>
 <p align="left"> 
