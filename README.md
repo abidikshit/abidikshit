@@ -47,8 +47,8 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 - [Resume Building Analytics- Sponsored Project by CoverQuick](https://github.com/abidikshit/Python/blob/master/ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
 - [Online Payment Fraud Detection](https://github.com/abidikshit/Python/blob/master//ALY6040-Data_Mining/FinalProject/ALY6040_OnlineFraudDetection_FinalProject.pdf)
-- [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](/R_Projects/ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
-- [Churn modelling in Banking Industry](/R_Projects/ALY6015-IntermediateAnalytics/FinalProject/ALY6015_Group1_Final_project.pdf)
+- [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](https://github.com/abidikshit/R_Projects/blob/master/ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
+- [Churn modelling in Banking Industry](https://github.com/abidikshit/R_Projects/blob/master/ALY6015-IntermediateAnalytics/FinalProject/ALY6015_Group1_Final_project.pdf)
 
 <h3>Certifications:</h3>
 
