@@ -52,6 +52,7 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Certifications:</h3>
 
+- [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/3309650a39442d1ee591b9e70e2b5a4f3525b942e08fa31cdd9840c6ef0d0c01?u=74653650)
 - [Introduction To Analytics](https://www.credly.com/badges/25205027-2c2d-4ae2-b470-71ada786a1cb)
 - [Data Visualization and Storytelling Basics](https://www.credly.com/badges/2b93078b-bc11-4ea8-83d7-a3a6ccf9a863)
 - [ASCEND (Applied Skills Curriculum to Empower Newcomer Development)](https://www.linkedin.com/feed/update/urn:li:activity:6956677247185358848/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6956677247185358848%29)
