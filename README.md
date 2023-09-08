@@ -45,10 +45,10 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Projects:</h3>
 
-- [Resume Building Analytics- Sponsored Project by CoverQuick](Python/ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
-- [Online Payment Fraud Detection](Python/ALY6040-Data_Mining/FinalProject/ALY6040_OnlineFraudDetection_FinalProject.pdf)
-- [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
-- [Churn modelling in Banking Industry](ALY6015-IntermediateAnalytics/FinalProject/ALY6015_Group1_Final_project.pdf)
+- [Resume Building Analytics- Sponsored Project by CoverQuick](/Python/ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
+- [Online Payment Fraud Detection](/Python/ALY6040-Data_Mining/FinalProject/ALY6040_OnlineFraudDetection_FinalProject.pdf)
+- [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](/R_Projects/ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
+- [Churn modelling in Banking Industry](/R_Projects/ALY6015-IntermediateAnalytics/FinalProject/ALY6015_Group1_Final_project.pdf)
 
 <h3>Certifications:</h3>
 
