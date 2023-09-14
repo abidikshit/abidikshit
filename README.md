@@ -11,6 +11,7 @@ With a touch of intergalactic flair, I bring a unique cosmic perspective to the 
 But hey, it's not all cosmic exploration 🛸 and scientific discoveries📡! When I'm not exploring the cosmos🌌, you can find me engaging in intergalactic arts, tattoos and indulging in alien cuisine. I believe in the power of unity across galaxies and embrace diversity in all forms.
 
 So, let's join forces and embark on an extraordinary journey together. Together, we can transcend boundaries and create a universe of possibilities. Get ready to experience the extraordinary with Abi! 🚀
+
 </p>
 
 <h3>Skills:</h3>
@@ -45,28 +46,23 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Projects:</h3>
 
+- [Movie Recommender System](https://github.com/abidikshit/Projects/blob/master/Projects/MovieRecommenderSystem.ipynb)
+- [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](https://github.com/abidikshit/R_Projects/blob/master/ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
 - [Resume Building Analytics- Sponsored Project by CoverQuick](https://github.com/abidikshit/Python/blob/master/ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
 - [Twitter Sentiment Analysis](https://github.com/abidikshit/Python/blob/master/ALY6110-DataManagementAndBigData/Twitter/ALY6110_FinalProjectMilestone–BasicAnalysisandDashboard.pdf)
 - [Online Payment Fraud Detection](https://github.com/abidikshit/Python/blob/master//ALY6040-Data_Mining/FinalProject/ALY6040_OnlineFraudDetection_FinalProject.pdf)
-- [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](https://github.com/abidikshit/R_Projects/blob/master/ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
 - [Churn modelling in Banking Industry](https://github.com/abidikshit/R_Projects/blob/master/ALY6015-IntermediateAnalytics/FinalProject/ALY6015_Group1_Final_project.pdf)
 
 <h3>Certifications:</h3>
 
-- [Machine Learning with Python: Logistic Regression](https://www.linkedin.com/learning/certificates/386251173efa38057b1a5f73712ff1d08a10af51d4fa77bb554fdf399733fd22)
+- [AWS Certified Solution Architect- Associate](https://www.linkedin.com/feed/update/urn:li:activity:6598586311408476160/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6598586311408476160%29)
 - [Amazon Web Services Machine Learning Essential Training](https://www.linkedin.com/learning/certificates/15ec6fff6c82d70ed4028b3bbf12e75fc477ea04750bc1ed24ff6786fd93b6a8)
 - [Power BI Data Modeling with DAX](https://www.linkedin.com/learning/certificates/fd552f0e605ffb9f51c1b4264af282e174d93c76f5ad3bdb3f3a587a4e1b6f5a)
 - [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/3309650a39442d1ee591b9e70e2b5a4f3525b942e08fa31cdd9840c6ef0d0c01?u=74653650)
--[Learning Amazon SageMaker](https://www.linkedin.com/learning/certificates/e0092cbfdf240ed905f45e4bd7f3137be45495803a735cbe87965c770b996ecf)
-- [Introduction To Analytics](https://www.credly.com/badges/25205027-2c2d-4ae2-b470-71ada786a1cb)
-- [Data Visualization and Storytelling Basics](https://www.credly.com/badges/2b93078b-bc11-4ea8-83d7-a3a6ccf9a863)
-- [ASCEND (Applied Skills Curriculum to Empower Newcomer Development)](https://www.linkedin.com/feed/update/urn:li:activity:6956677247185358848/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6956677247185358848%29)
-- [AWS CERTIFIED Solution Architect- Associate](https://www.linkedin.com/feed/update/urn:li:activity:6598586311408476160/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6598586311408476160%29)
-
+  -[Learning Amazon SageMaker](https://www.linkedin.com/learning/certificates/e0092cbfdf240ed905f45e4bd7f3137be45495803a735cbe87965c770b996ecf)
 
 <h3>Contact Me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/linkedin.png" alt="abhilash-dikshit" height="20" width="60" /></a>
     <a href="https://www.kaggle.com/abhilashdikshit" target="blank"><img align="center" src="/icons/Kaggle.png" alt="abhilash-dikshit" height="20" width="60" /></a> 
 </p>
-
