@@ -46,7 +46,7 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Projects:</h3>
 
-- [Movie Recommender System](https://github.com/abidikshit/Projects/blob/master/Projects/MovieRecommenderSystem.ipynb)
+- [Movie Recommender System](https://github.com/abidikshit/Projects)
 - [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](https://github.com/abidikshit/R_Projects/blob/master/ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
 - [Resume Building Analytics- Sponsored Project by CoverQuick](https://github.com/abidikshit/Python/blob/master/ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
 - [Twitter Sentiment Analysis](https://github.com/abidikshit/Python/blob/master/ALY6110-DataManagementAndBigData/Twitter/ALY6110_FinalProjectMilestone–BasicAnalysisandDashboard.pdf)
