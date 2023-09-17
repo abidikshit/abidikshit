@@ -59,7 +59,8 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 - [Amazon Web Services Machine Learning Essential Training](https://www.linkedin.com/learning/certificates/15ec6fff6c82d70ed4028b3bbf12e75fc477ea04750bc1ed24ff6786fd93b6a8)
 - [Power BI Data Modeling with DAX](https://www.linkedin.com/learning/certificates/fd552f0e605ffb9f51c1b4264af282e174d93c76f5ad3bdb3f3a587a4e1b6f5a)
 - [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/3309650a39442d1ee591b9e70e2b5a4f3525b942e08fa31cdd9840c6ef0d0c01?u=74653650)
-  -[Learning Amazon SageMaker](https://www.linkedin.com/learning/certificates/e0092cbfdf240ed905f45e4bd7f3137be45495803a735cbe87965c770b996ecf)
+
+-[Learning Amazon SageMaker](https://www.linkedin.com/learning/certificates/e0092cbfdf240ed905f45e4bd7f3137be45495803a735cbe87965c770b996ecf)
 
 
 <h3>Articles Published:<h3>
@@ -68,6 +69,6 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Contact Me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/linkedin.png" alt="abhilash-dikshit" height="20" width="60" /></a>
+    <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/linkedin.png" alt="abhilash-dikshit" height="20" width="70" /></a>
     <a href="https://www.kaggle.com/abhilashdikshit" target="blank"><img align="center" src="/icons/Kaggle.png" alt="abhilash-dikshit" height="20" width="60" /></a> 
 </p>
