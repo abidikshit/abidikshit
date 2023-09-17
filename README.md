@@ -61,6 +61,11 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 - [Tableau for Data Scientists](https://www.linkedin.com/learning/certificates/3309650a39442d1ee591b9e70e2b5a4f3525b942e08fa31cdd9840c6ef0d0c01?u=74653650)
   -[Learning Amazon SageMaker](https://www.linkedin.com/learning/certificates/e0092cbfdf240ed905f45e4bd7f3137be45495803a735cbe87965c770b996ecf)
 
+
+<h3>Articles Published:<h3>
+
+- [📚 Unlocking Knowledge: Exploring the World of SQL and Databases 📊](https://www.linkedin.com/pulse/top-50-sql-interview-questions-data-analystscientist-role-dikshit)
+
 <h3>Contact Me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/linkedin.png" alt="abhilash-dikshit" height="20" width="60" /></a>
