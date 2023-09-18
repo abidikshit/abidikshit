@@ -16,15 +16,13 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Skills:</h3>
 
-- Programming and/or Scripting Language: Python, R, Scala, Shell
-- Database: MySQL, MS SQL server, MongoDB, PostgreSQL
-- Web Technologies: HTML, CSS, JavaScript
-- Data Formats: JSON, XML
-- Machine Learning and Big Data: TensorFlow, scikit-learn, PyTorch, Hadoop, Hive, Spark, Cloudera
-- Data Visualization: Tableau, Power BI, Matplotlib, and QlikView
-- Statistical Analysis: Hypothesis testing, Regression analysis, and clustering.
-- API Integration: REST APIs
-- DevOps Tools: Bitbucket, GitHub, Maven, jFrog Artifactory, Ansible, Jira, TeamCity, Jenkins, SonarQube, AWS, Pivotal Cloud Foundry (PCF), Datadog, Grafana, Docker, VMware, Postman.
+•	Programming Languages and Web Technologies: Python, R, HTML, XML, CSS, Bootstrap, JavaScript, FastAPI
+•	Database: MySQL, MS SQL Server, MongoDB, PostgreSQL
+•	Machine Learning and Big Data: Amazon SageMaker, TensorFlow, Hadoop, Spark, Cloudera
+•	Data Visualization: Tableau, Power BI, Matplotlib
+•	Statistical Analysis: Hypothesis Testing, Regression Analysis, ARIMA, and Clustering
+•	DevOps: Bitbucket, Maven, Artifactory, Jira, Jenkins, SonarQube, AWS, Datadog, Grafana, Docker, Postman
+
 
 <p align="left"> 
     <img width="80" height="50" src="/icons/git.jpg">
