@@ -61,6 +61,7 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>Articles Published:</h3>
 
+- [The Power of Statistical Tests: A Guide for Researchers 💡](https://www.linkedin.com/posts/abhilash-dikshit_statistics-dataanalysis-research-activity-7109611454793715712-UIaN?utm_source=share&utm_medium=member_desktop)
 - [📚 Unlocking Knowledge: Exploring the World of SQL and Databases 📊](https://www.linkedin.com/pulse/top-50-sql-interview-questions-data-analystscientist-role-dikshit)
 - [📊 Unlocking Data Insights with Tableau 📈](https://www.linkedin.com/posts/abhilash-dikshit_dataanalysis-tableau-datavisualization-activity-7109284281608261632-RJ1_?utm_source=share&utm_medium=member_desktop)
 
