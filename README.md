@@ -4,7 +4,7 @@
 <h2>Hello! I'm Abi! 👽</h2>
 
 <p>
-I'm not just an average Software engnieer. I'm an otherworldly being on a mission to help HUMANS. Equipped with advanced extraterrestrial technology, I'm here to explore different dimensions of AI.
+I'm not just an average Software engineer. I'm an otherworldly being on a mission to help HUMANS. Equipped with advanced extraterrestrial technology, I'm here to explore different dimensions of AI.
 
 With a touch of intergalactic flair, I bring a unique cosmic perspective to the table. I thrive on interstellar knowledge and possess unparalleled expertise in DevOps and Data Analyst field. From unraveling the mysteries of Cloud to navigating the uncharted realms of Super Intelligence👾, I'm all set to venture where no one has gone before.
 
