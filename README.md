@@ -19,7 +19,7 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 - Programming Languages/Web Technologies/Scripting: Python, R, JavaScript, C#, ASP.net, PHP, Bash, XML,
 HTML, CSS, Bootstrap
 - Database: MySQL, MS SQL Server, MongoDB, PostgreSQL
-- Machine Learning and Big Data: Amazon SageMaker, TensorFlow, Hadoop, Spark, Cloudera
+- Machine Learning and Big Data: Amazon SageMaker, TensorFlow, Pytorch, Scikit-learn, Hadoop, Spark
 - Data Analysis and Visualization: Tableau, Power BI, IBM SPSS Statistics, Matplotlib, Advanced Excel
 - Cloud and DevOps: Bitbucket, GitHub, GitLab, Perforce, Maven, Artifactory, Jira, Jenkins, TeamCity,
 SonarQube, AWS, PCF, Azure, Terraform, Datadog, Grafana, Docker, Linux, VM, Postman, Consul, CyberArk
@@ -45,6 +45,7 @@ SonarQube, AWS, PCF, Azure, Terraform, Datadog, Grafana, Docker, Linux, VM, Post
 
 <h3>Projects:</h3>
 
+- [TransLink Deloitte Hackathon 2023 Winner](https://github.com/abidikshit/Projects/tree/master/TransLink_Intelligent_Transport_System)
 - [Movie Recommender System](https://github.com/abidikshit/Projects/tree/master/MovieRecommender)
 - [Airbnb New York Analysis (2011 -2019)- Data Visualization using R, ShinyR and Tableau](https://github.com/abidikshit/R_Projects/blob/master/ALY6070-CommunicationAndVisualization/FinalProject/ALY6070_G7_FinalProject.pdf)
 - [Resume Building Analytics- Sponsored Project by CoverQuick](https://github.com/abidikshit/Python/blob/master/ALY6080-XN_CoverQuick_Project/FinalCoverQuickAnalysis/ALY6080_Final_Report_CoverQuick.pdf)
