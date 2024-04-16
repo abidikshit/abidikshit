@@ -59,6 +59,7 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <h3>AI Projects For Better World</h3>
 
+- [Real-Time Object Detection and Logging Using YOLOv9e](https://github.com/abidikshit/real-time-object-detection-using-yolov9e)
 - [Yolov9-VancouverTrafficCongestion](https://github.com/abidikshit/Yolov9-VancouverTrafficCongestion.git)
 - [Movie Recommender System](https://github.com/abidikshit/Projects/tree/master/MovieRecommender)
 
@@ -92,5 +93,4 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 <h3>Lets Explore The World Of Data</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/abhilash-dikshit" target="blank"><img align="center" src="/icons/linkedin.png" alt="abhilash-dikshit" height="20" width="70" /></a>
-   <!-- <a href="https://www.kaggle.com/abhilashdikshit" target="blank"><img align="center" src="/icons/Kaggle.png" alt="abhilash-dikshit" height="20" width="60" /></a> -->
 </p>
