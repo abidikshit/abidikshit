@@ -18,24 +18,68 @@ So, let's join forces and embark on an extraordinary journey together. Together,
 
 <table>
     <tr>
-        <td><strong>Programming Languages/Web Technologies/Scripting</strong></td>
-        <td>Python, R, JavaScript, C#, ASP.net, PHP, Bash, XML, HTML, CSS, Bootstrap</td>
+        <th>Category</th>
+        <th>Skills/Technologies</th>
     </tr>
     <tr>
-        <td><strong>Database</strong></td>
-        <td>MySQL, MS SQL Server, MongoDB, PostgreSQL</td>
+        <td>Programming/ Scripting Languages/ Web Technologies</td>
+        <td>Python, R, PHP, Java, C#, Shell, JavaScript (Node.js), HTML, CSS (React)</td>
     </tr>
     <tr>
-        <td><strong>Machine Learning and Big Data</strong></td>
-        <td>Amazon SageMaker, TensorFlow, Pytorch, Scikit-learn, Hadoop, Spark</td>
+        <td>Database</td>
+        <td>MySQL, MS SQL Server, MongoDB, DynamoDB, PostgreSQL</td>
     </tr>
     <tr>
-        <td><strong>Data Analysis and Visualization</strong></td>
-        <td>Tableau, Power BI, IBM SPSS Statistics, Matplotlib, Advanced Excel</td>
+        <td>Cloud Platform</td>
+        <td>AWS, PCF, Azure, GCP</td>
     </tr>
     <tr>
-        <td><strong>Cloud and DevOps</strong></td>
-        <td>Bitbucket, GitHub, GitLab, Perforce, Maven, Artifactory, Jira, Jenkins, TeamCity, SonarQube, AWS, PCF, Azure, Terraform, Datadog, Grafana, Docker, Linux, VM, Postman, Consul, CyberArk</td>
+        <td>SCM Tools</td>
+        <td>Bitbucket, GitHub, GitLab, Perforce</td>
+    </tr>
+    <tr>
+        <td>Repository Manager</td>
+        <td>jFrog Artifactory, Sonatype Nexus</td>
+    </tr>
+    <tr>
+        <td>Build Tool</td>
+        <td>Maven, Gradle</td>
+    </tr>
+    <tr>
+        <td>Containerization</td>
+        <td>VMware, Docker, Kubernetes</td>
+    </tr>
+    <tr>
+        <td>Infrastructure as Code</td>
+        <td>Terraform, AWS Cloud Formation</td>
+    </tr>
+    <tr>
+        <td>Monitoring Tools</td>
+        <td>Datadog, Grafana, Splunk, Dynatrace, Nagios, AWS CloudWatch</td>
+    </tr>
+    <tr>
+        <td>CI/CD Tools</td>
+        <td>Jenkins, TeamCity, Gitlab CI, GitHub Actions, CircleCI</td>
+    </tr>
+    <tr>
+        <td>Security and Other Tools/ Technologies</td>
+        <td>AWS WAF, AWS Lambda, S3, EC2, VPC, CIDR, IAM, CyberArk, HashiCorp Consul, Postman, Jira, Microservices, Unit testing (JUnit), Static testing (SonarQube), Regression testing (JUnit), Penetration testing (OWASP), Performance testing (JMeter), Load Testing (JMeter), Kafka, Streamsets</td>
+    </tr>
+    <tr>
+        <td>Ticketing Tool</td>
+        <td>Zendesk, ServiceNow, HPSM</td>
+    </tr>
+    <tr>
+        <td>Operating System</td>
+        <td>Windows, Linux, MacOS</td>
+    </tr>
+    <tr>
+        <td>Machine Learning and Big Data</td>
+        <td>Amazon SageMaker, TensorFlow, Scikit-learn, Pytorch, Spark, Hadoop, Data Analytics, Predictive Analytics</td>
+    </tr>
+    <tr>
+        <td>Data Analysis and Visualization</td>
+        <td>Power BI, Tableau, IBM SPSS Statistics, Advanced Excel</td>
     </tr>
 </table>
 
