@@ -1,9 +1,6 @@
-<p align="center">
-  <img width="300" height="300" src="./icons/consciousness.gif" alt="consciousness">
-</p>
-
 <h1 align="center">Hi, I'm Abi 👽</h1>
-<p align="center"><b>DevOps Engineer & Data Analyst</b> — Cloud · CI/CD · ML · Data Viz</p>
+<p align="center"><b>Sr. DevSecOps Consultant</b> — Cloud Security · CI/CD · AppSec · ML</p>
+<p align="center"><i>Currently Sr. DevOps Consultant @ CGI · MS, Applied Machine Intelligence @ Northeastern</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhilash-dikshit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -14,9 +11,9 @@
 
 ## About me
 
-I'm not just an average software engineer — I'm an otherworldly being on a mission to help HUMANS 🛸. Equipped with advanced extraterrestrial technology, I explore different dimensions of AI, bringing a cosmic perspective to DevOps and Data Analytics.
+I'm not just an average software engineer — I'm an otherworldly being on a mission to help HUMANS 🛸. Equipped with advanced extraterrestrial technology, I explore different dimensions of AI, security, and the cloud.
 
-From unraveling the mysteries of the Cloud ☁️ to navigating the uncharted realms of Super Intelligence 👾, I'm set to venture where no one has gone before.
+From hardening pipelines with **SAST/DAST/SCA** to navigating the uncharted realms of Super Intelligence 👾 and AI code agents, I'm set to venture where no one has gone before.
 
 When I'm not exploring the cosmos 🌌, you'll find me into intergalactic arts, tattoos, and alien cuisine. Let's join forces and create a universe of possibilities. 🚀
 
@@ -33,24 +30,41 @@ When I'm not exploring the cosmos 🌌, you'll find me into intergalactic arts, 
 
 ## 🛠 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-89E051?logo=gnu-bash&logoColor=black)
+**🔒 Security & AppSec**
+![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?logo=snyk&logoColor=white)
+![Aqua](https://img.shields.io/badge/-Aqua_Security-1904DA?logo=aqua&logoColor=white)
+![GitGuardian](https://img.shields.io/badge/-GitGuardian-000000?logo=gitguardian&logoColor=white)
+![Probely](https://img.shields.io/badge/-Probely-6B46C1?logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?logo=owasp&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/-AWS_WAF-FF9900?logo=amazon-aws&logoColor=white)
+![CyberArk](https://img.shields.io/badge/-CyberArk-000000?logoColor=white)
 
-**Cloud & DevOps**
+Practice areas: **SAST · DAST · SCA · SBOM · Cryptography · Cloud & Application Security (CASE) · Penetration Testing**
+
+**⚙️ DevOps & CI/CD**
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
+![Argo CD](https://img.shields.io/badge/-Argo_CD-EF7B4D?logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+
+**☁️ Cloud & Containers**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GKE](https://img.shields.io/badge/-GKE-4285F4?logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-**Data & ML**
+**📈 Observability**
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?logo=dynatrace&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+
+**🤖 AI / ML / Data**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
@@ -60,17 +74,21 @@ When I'm not exploring the cosmos 🌌, you'll find me into intergalactic arts, 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+Currently exploring: **AI code agents · LLM security · Agentic DevSecOps workflows**
 
-**Monitoring**
-![Datadog](https://img.shields.io/badge/-Datadog-632CA6?logo=datadog&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white)
-![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?logo=dynatrace&logoColor=white)
+**💻 Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Shell](https://img.shields.io/badge/-Shell-89E051?logo=gnu-bash&logoColor=black)
+
+---
+
+## 🎓 Education
+
+- **MS, Applied Machine Intelligence** — Northeastern University (2022–2024), GPA 3.91/4
+  Founder & Board Member, Data Analytics Association (DAA)
 
 ---
 
@@ -100,4 +118,4 @@ When I'm not exploring the cosmos 🌌, you'll find me into intergalactic arts, 
 
 ---
 
-<p align="center"><i>Let's transcend boundaries and explore the world of data — together. 🌌</i></p>
+<p align="center"><i>Let's transcend boundaries and secure the universe — together. 🌌🔒</i></p>
