@@ -111,4 +111,4 @@ AI code agents · LLM security · Agentic DevSecOps workflows
 
 ---
 
-<p align="center"><i>Let's transcend boundaries and secure the universe — together. 🌌🔒</i></p>
+<p align="center"><i>Let's transcend boundaries and secure the universe — together.</i></p>
