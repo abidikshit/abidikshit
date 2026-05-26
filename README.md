@@ -19,7 +19,7 @@ When I'm not exploring the cosmos, you'll find me into intergalactic arts, tatto
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Security & AppSec**
 ![Snyk](https://img.shields.io/badge/-Snyk-4C4A73?logo=snyk&logoColor=white)
@@ -63,7 +63,7 @@ When I'm not exploring the cosmos, you'll find me into intergalactic arts, tatto
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
 
-**💻 Languages**
+**Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
