@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abi</h1>
-<p align="center"><b>Sr. DevSecOps Consultant</b> — Cloud Security · CI/CD · AppSec · ML</p>
-<p align="center"><i>Currently Sr. DevOps Consultant @ CGI · MS, Applied Machine Intelligence @ Northeastern</i></p>
+<p align="center"><b>Sr. AI DevSecOps Consultant</b> — Cloud Security · CI/CD · AppSec · ML</p>
+<p align="center"><i>Currently Sr. AI DevSecOps Consultant @ CGI · MS, Applied Machine Intelligence @ Northeastern</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhilash-dikshit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
