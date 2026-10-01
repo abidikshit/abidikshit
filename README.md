@@ -10,10 +10,6 @@
 
 ## About me
 
-I'm not just an average software engineer — I'm an otherworldly being on a mission to help HUMANS. Equipped with advanced extraterrestrial technology, I explore different dimensions of AI, security, and the cloud.
-
-From hardening pipelines with **SAST/DAST/SCA** to navigating the uncharted realms of Super Intelligence and AI code agents, I'm set to venture where no one has gone before.
-
 When I'm not exploring the cosmos, you'll find me into intergalactic arts, tattoos, and alien cuisine. Let's join forces and create a universe of possibilities. 
 
 ---
